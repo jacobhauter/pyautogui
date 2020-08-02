@@ -1,4 +1,4 @@
-# Report Automation Using Python pyautogui
+# Report Automation Using Python pyautogui Package
 
 ## PROBLEM:
 - Needed to run weekly reports out of a non-user-friendly reporting tool  
