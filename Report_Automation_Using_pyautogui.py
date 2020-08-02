@@ -3,7 +3,7 @@
 # - Input folder location for where to send automated reports
 # - Input all below appropriate variables based on current/relative dates
 
-AutomationFolder = 'C:\\Users\jacobhauter\Desktop\Automation'
+AutomationFolder = 'C:\\Users\\jacobhauter\\Desktop\\Automation'
 
 # Variables
 
